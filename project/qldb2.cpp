@@ -43,7 +43,7 @@ int main(){
             	cout<<"Xin moi nhap so dien thoai: ";
 			cin.getline(sdt[N],11);//Nhan day ky tu nhap vao cho den khi du 11 ki tu hoac khi ket thuc bang dau Enter va xoa ky tu Enter khoi bo dem
 			cout<<"Xin moi nhap dia chi email: ";
-			cin.getline(email[N],60);//Nhan day ky tu nhap vao cho den khi du 49 ki tu hoac khi ket thuc bang dau Enter	va xoa ky tu Enter khoi bo dem		
+			cin.getline(email[N],60);//Nhan day ky tu nhap vao cho den khi du 49 ki tu hoac khi ket thuc bang dau Enter va xoa ky tu Enter khoi bo dem		
 			N++;//Dem so danh ba
 		}
 		else if(chon==2){//Hien thi toan bo danh ba
